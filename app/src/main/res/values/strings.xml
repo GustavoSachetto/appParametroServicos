@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">appParametroServico</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="nome">Nome:</string>
+    <string name="endereco">Endereço:</string>
+    <string name="email">E-mail:</string>
+    <string name="tel">Telefone:</string>
+    <string name="dados">DADOS CADASTRADOS</string>
+    <string name="atencao">ATENÇÃO! \n Clique no telefone para fazer a ligação ou usar o Whats App, no e-mail para enviar uma mensagem e no endereço para abrir no Google Maps</string>
+</resources>
